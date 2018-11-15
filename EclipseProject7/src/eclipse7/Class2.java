@@ -9,4 +9,6 @@ package eclipse7;
  */
 public class Class2 {
 	
+	
+	
 }
